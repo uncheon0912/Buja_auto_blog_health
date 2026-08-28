@@ -1,0 +1,32 @@
+# 네이버 로그인 정보가 포함될 수 있는 로컬 Chrome 프로필
+2026-08-27-blog-sessions/
+
+# Python 캐시 및 테스트 산출물
+__pycache__/
+*.py[cod]
+.pytest_cache/
+playwright-report/
+test-results/
+
+# 오류 화면과 로컬 실행 로그
+History/*.png
+History/*.jpg
+History/*.jpeg
+History/*.webp
+*.log
+
+# 비밀값 및 인증서
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# 편집기 및 운영체제 파일
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

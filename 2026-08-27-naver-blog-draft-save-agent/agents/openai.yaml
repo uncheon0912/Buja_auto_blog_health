@@ -1,0 +1,7 @@
+interface:
+  display_name: "네이버 블로그 임시저장"
+  short_description: "검수 통과 원고만 네이버에 입력하고 임시저장까지 처리합니다"
+  default_prompt: "Use $2026-08-27-naver-blog-draft-save-agent to enter my approved drafts into Naver and save them only as drafts."
+
+policy:
+  allow_implicit_invocation: true

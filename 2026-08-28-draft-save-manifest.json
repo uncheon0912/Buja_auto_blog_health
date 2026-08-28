@@ -1,0 +1,15 @@
+{
+  "resume_from": 1,
+  "items": [
+    {
+      "number": 1,
+      "total": 1,
+      "title": "매일 아침 러닝하는 40대 직장인 어느날 발목이 땡기는 듯이 아프다면?",
+      "draft_path": "Contents/2026-08-28-01-아침러닝-발목통증.md",
+      "review_status": "자동 수정 후 통과",
+      "reviewed_sha256": "4C3F3AC63DA9E021D5AE296C020A9DDE318526B528A465A08F98EA5CCF403149",
+      "medical": true,
+      "already_completed": false
+    }
+  ]
+}

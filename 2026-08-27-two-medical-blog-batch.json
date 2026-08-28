@@ -1,0 +1,14 @@
+{
+  "blog_number": 1,
+  "wait_seconds": 60,
+  "items": [
+    {
+      "title_file": "Contents/2026-08-27-01-거북목원인-title.txt",
+      "body_file": "Contents/2026-08-27-01-거북목원인-body.txt"
+    },
+    {
+      "title_file": "Contents/2026-08-27-02-육아손목터널-title.txt",
+      "body_file": "Contents/2026-08-27-02-육아손목터널-body.txt"
+    }
+  ]
+}

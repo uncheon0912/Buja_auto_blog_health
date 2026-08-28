@@ -1,0 +1,7 @@
+interface:
+  display_name: "정보성 블로그 자료 수집"
+  short_description: "제목별 공식 근거를 수집하고 의료 안전성을 점검합니다"
+  default_prompt: "Use $2026-08-27-information-blog-research-agent to analyze my Korean blog titles and collect verified sources for each title."
+
+policy:
+  allow_implicit_invocation: true

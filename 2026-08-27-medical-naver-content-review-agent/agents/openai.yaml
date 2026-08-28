@@ -1,0 +1,7 @@
+interface:
+  display_name: "의료법·금칙어·네이버 검수"
+  short_description: "네이버 입력 전 의료 표현과 콘텐츠 서식을 단계별로 검수합니다"
+  default_prompt: "Use $2026-08-27-medical-naver-content-review-agent to review my Naver blog draft before any browser input."
+
+policy:
+  allow_implicit_invocation: true

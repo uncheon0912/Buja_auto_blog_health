@@ -1,0 +1,7 @@
+interface:
+  display_name: "네이버 정보성 블로그 원고"
+  short_description: "제목별 네이버 임시저장용 정보성 원고를 안전하게 작성합니다"
+  default_prompt: "Use $2026-08-27-naver-information-blog-content-agent to draft one independent Naver informational blog post for each title I provide."
+
+policy:
+  allow_implicit_invocation: true

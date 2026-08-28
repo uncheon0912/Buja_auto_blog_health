@@ -1,0 +1,15 @@
+{
+  "resume_from": 1,
+  "items": [
+    {
+      "number": 1,
+      "total": 1,
+      "title": "2026년 ai 에이전트의 전망과 미래는?",
+      "draft_path": "Contents/2026-08-28-02-ai에이전트-전망.md",
+      "review_status": "통과",
+      "reviewed_sha256": "C56C02FB803A89DD3530B6FE07AA4F6340F766A5A6F9BA98A07592D1A53EFF40",
+      "medical": false,
+      "already_completed": false
+    }
+  ]
+}
